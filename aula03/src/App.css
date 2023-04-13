@@ -1,0 +1,19 @@
+#root {
+  display: flex;
+  flex-direction: column;
+  flex: 1;
+}
+
+.app {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  flex: 1;
+}
+
+.main {
+  display: flex;
+  flex-direction: column;
+  flex: 1;
+  padding: 24px 32px;
+}
